@@ -1,6 +1,5 @@
 /*
  * File: 106-bitonic_sort.c
- * Auth: 
  */
 
 #include "sort.h"
